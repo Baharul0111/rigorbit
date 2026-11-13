@@ -1,0 +1,9 @@
+interface:
+  display_name: Rigorbit
+  short_description: Develop and review research with agent teams
+  default_prompt: Use $rigorbit to turn my research topic into a reviewed proposal
+    and reproducible experiment.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
